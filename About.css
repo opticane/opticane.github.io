@@ -989,4 +989,29 @@
     margin-right: auto;
     margin-left: 40px;
   }
+}.u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 180px;
+}
+
+.u-section-4 .u-social-icons-1 {
+  height: 60px;
+  min-height: 16px;
+  width: 60px;
+  min-width: 16px;
+  white-space: nowrap;
+  margin: 60px auto;
+}
+
+.u-section-4 .u-icon-1 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-icon-1 {
+    color: rgb(33, 33, 33) !important;
+  }
 }
