@@ -1,2 +1,2 @@
 # opticane.github.io
-Opticane is a white cane for the visually impaired that uses a novel primitive haptic language, `Vibraille`, to provide object detection, haptic navigation, and battery checking capabilities.
+Opticane's Website. Can be accessed through group18.sdp.inf.ed.ac.uk as well.
