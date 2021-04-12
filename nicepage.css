@@ -32513,7 +32513,11 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: 0;
   }
 }
-
+@media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    margin: -48px 13px 53px auto;
+  }
+}
 .u-footer {
   background-image: none;
 }
